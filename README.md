@@ -47,4 +47,4 @@ https://www.kaggle.com/datasets/syedzubair/bug-prediction-dataset
 
 ## Author
 
-Samr Ariaz
+Samra Riaz
